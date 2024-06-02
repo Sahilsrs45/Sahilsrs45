@@ -13,7 +13,7 @@ I am a dedicated third-year Computer Science and Engineering student at MITWPU w
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parimal07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parimal07&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sahilsrs45&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parimal07&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sahilsrs45&icon=1&color=0)](https://visitcount.itsvg.in)
