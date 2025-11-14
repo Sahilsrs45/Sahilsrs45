@@ -1,19 +1,65 @@
-# 💫 About Me:
-I am a dedicated third-year Computer Science and Engineering student at MITWPU with a fervent passion for data science. Eager to harness my technical skills and knowledge to become a proficient data scientist, I am committed to leveraging data-driven insights for innovative solutions.
-
-
-## 🌐 Socials:
-[![Instagram]() 
-[![LinkedIn]() 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilsrs45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahilsrs45&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<h1 align="center">Hi, I'm Sahil Ranawade 👋</h1>
+<h3 align="center">Java Developer | Spring Boot | Backend Engineering</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahilsrs45&icon=1&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me  
+Motivated and detail-oriented **Java Developer** with hands-on experience in building scalable backend applications using **Core Java, Spring Boot, JDBC, SQL, and REST APIs**. I enjoy designing clean architectures, solving real-world problems, and continuously improving system performance.
+
+During my internship at **Harbinger Group**, I worked on eLearning modules, real-time dashboards, API integrations, and workflow automation as part of Agile sprints.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Java | SQL | JavaScript | HTML | CSS
+
+### **Frameworks & Tools**
+- Spring Boot | Spring | JPA | JDBC  
+- Git | GitHub | IntelliJ IDEA | Eclipse | VS Code  
+- MySQL Workbench | Figma | MVC Architecture
+
+### **Core Concepts**
+- OOP | REST APIs | Layered Architecture | Agile Development | Design Thinking
+
+---
+
+## 🔥 Projects
+
+### 🔹 **Bank Management System**
+- Built using **Java, Spring Boot, JPA, MySQL**
+- Features: Account creation, transactions, validations, layered architecture
+- Demonstrates: OOP, MVC, exception handling  
+👉 [View Repository](https://github.com/Sahilsrs45/Bank_Management_System)
+
+### 🔹 **Product Management System**
+- CRUD-based web application with modular Spring Boot design  
+- Includes services, repositories, controllers, validations  
+👉 Repository link (Add your link here)
+
+---
+
+## 🏆 Achievements
+- 🥇 **Gold Medalist – Inter-College Rowing**  
+- 🥈 **2nd Place – Inter-Department Tug of War**
+
+---
+
+## 📫 Contact Me  
+📍 Pune, Maharashtra  
+📧 **sahilranwade121@gmail.com**  
+🔗 **GitHub:** [github.com/Sahilsrs45](https://github.com/Sahilsrs45)
+
+---
+
+## 🌱 Currently Learning
+- Spring Security  
+- Microservices  
+- System Design  
+
+---
+
+## 🚀 Fun Facts
+- I love Trekking, Bike Riding & Cricket  
+- Passionate about clean UI/UX and responsive design  
